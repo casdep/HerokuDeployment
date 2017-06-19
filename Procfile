@@ -1,1 +1,3 @@
-web:    sh target/bin/app
+"scripts": {
+  "start": "node index.js"
+}
